@@ -1,0 +1,14 @@
+#menu
+{
+background-color:#0086b3;color:white;
+}
+a.menulink:link{text-decoration:none;color:white;}
+a.menulink:visited{color:white;}
+a.menulink:hover{color:white;background-color:#b3b3cc;}
+a.menulink:active{color:white;background-color:black;}
+a.menulink{	border-radius:20px;
+			padding-top:10px;
+			padding-bottom:10px;
+			padding-right:10px;
+			padding-left:10px;}
+h1.menucenter,h2.menucenter{text-align:center;}
